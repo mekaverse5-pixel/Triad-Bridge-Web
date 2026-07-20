@@ -7,6 +7,14 @@
     "ethereumNetwork": "Ethereum Sepolia",
     "proofProgramHash": null
   },
+  "assets": [
+    { "id": "ada", "symbol": "ADA", "wrappedSymbol": "tADA", "originNetwork": "Cardano Preview", "destinationNetwork": "Ethereum Sepolia", "decimals": 6, "release": "V1.0", "status": "not_deployed" },
+    { "id": "eth", "symbol": "ETH", "wrappedSymbol": "tETH", "originNetwork": "Ethereum Sepolia", "destinationNetwork": "Cardano Preview", "decimals": 18, "release": "V1.1", "status": "development" },
+    { "id": "wbtc", "symbol": "WBTC", "wrappedSymbol": "tWBTC", "originNetwork": "Ethereum Sepolia", "destinationNetwork": "Cardano Preview", "decimals": 8, "release": "待资产审查", "status": "review" },
+    { "id": "dai", "symbol": "DAI", "wrappedSymbol": "tDAI", "originNetwork": "Ethereum Sepolia", "destinationNetwork": "Cardano Preview", "decimals": 18, "release": "待资产审查", "status": "review" },
+    { "id": "usdc", "symbol": "USDC", "wrappedSymbol": "tUSDC", "originNetwork": "Ethereum Sepolia", "destinationNetwork": "Cardano Preview", "decimals": 6, "release": "待资产审查", "status": "review" },
+    { "id": "usdt", "symbol": "USDT", "wrappedSymbol": "tUSDT", "originNetwork": "Ethereum Sepolia", "destinationNetwork": "Cardano Preview", "decimals": 6, "release": "待资产审查", "status": "review" }
+  ],
   "contracts": {
     "cardanoVaultScriptHash": null,
     "cardanoProofVerifierScriptHash": null,
