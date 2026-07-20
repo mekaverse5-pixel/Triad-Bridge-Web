@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": null,
+  "route": {
+    "status": "not_deployed",
+    "cardanoNetwork": "Cardano Preview",
+    "ethereumNetwork": "Ethereum Sepolia",
+    "proofProgramHash": null
+  },
+  "contracts": {
+    "cardanoVaultScriptHash": null,
+    "cardanoProofVerifierScriptHash": null,
+    "ethereumMintHub": null,
+    "ethereumBurnHub": null,
+    "tada": null,
+    "assetRegistry": null,
+    "feeRouter": null,
+    "protocolRevenueVault": null,
+    "holderReserveVault": null,
+    "cardanoProtocolFeeRecipient": null,
+    "cardanoHolderFeeRecipient": null,
+    "assetId": null
+  },
+  "release": {
+    "cid": null,
+    "sourceRevision": null
+  }
+}
